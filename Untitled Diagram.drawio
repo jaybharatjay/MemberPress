@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T07:18:35.454Z" agent="5.0 (Windows)" etag="GGEHE5EG_dwSKACjM96n" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T07:23:03.616Z" agent="5.0 (Windows)" etag="9ydei_B2MK5Uc3XNJy82" version="15.7.0" type="github">
   <diagram id="dkUiS59BBGbl0RJkbHyD" name="Page-1">
     <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="vRdFM8mdRWxYOnKqkBIo-23" value="After successful validation control redirect&amp;nbsp; CALL -BACK&amp;nbsp; to the merchant page" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="730" width="311" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vRdFM8mdRWxYOnKqkBIo-25" value="Onepay I have 2&#39;nd option and also I am having backup Plan option1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="480" y="990" width="370" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
